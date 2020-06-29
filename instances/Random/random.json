@@ -1,0 +1,35 @@
+{
+  "type": "and",
+  "postprocessors": [
+    {
+      "type": "sorting",
+    "order": [ "instancia" ]
+    }
+  ],
+  "descendants": [
+    {
+    "type": "file",
+    "name": "instancia",
+    "path": "random.txt",
+    "match": ".*"
+    },
+    {
+      "type": "discrete",
+      "name": "algoritmo",
+      "comment": "Apenas ils esta implementado",
+      "values": [ "guedes" ]
+    },
+    {
+      "type": "discrete",
+      "name": "tsi",
+      "comment": "0 = canonical, 1 = vizing",
+      "values": [ 0, 1 ]
+    },  
+    {
+      "type": "discrete",
+      "name": "tbl",
+      "comment": "0 = n3Un4(fabricio), 1 = n3Un4Un5(tiago)",
+      "values": [ "n3Un4" , "n6"]
+    }
+  ]
+}
