@@ -1,0 +1,7 @@
+inst12classic
+inst14classic
+inst18classic
+inst24classic
+inst26classic
+inst28classic
+inst30classic
