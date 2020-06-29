@@ -3,7 +3,7 @@ An Iterated Local Search for minimizing weighted carry-over effects in single ro
 
 # About
 
-This implementation was published on [Computers and Operations Research](https://www.sciencedirect.com/science/article/pii/S0305054815003020).
+This implementation was published on `A new neighborhood structure for round robin scheduling problems` - [Computers and Operations Research](https://www.sciencedirect.com/science/article/pii/S0305054815003020).
 
 Please cite as follows:
 Tiago Januario, Sebastián Urrutia, *A new neighborhood structure for round robin scheduling problems*, Computers & Operations Research, Volume 70,Pages 127-139,2016.
