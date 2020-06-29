@@ -1,4 +1,4 @@
-# wcoem-ils
+# wco-ils
 An Iterated Local Search for minimizing weighted carry-over effects in single round robin tournaments
 
 # About
